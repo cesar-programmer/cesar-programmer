@@ -1,7 +1,7 @@
 # Hola, soy Cesar Cordova 👋
 
 **AI & Backend Developer** · Tijuana, B.C., México
-Ingeniería en Software @ UABC · Español (nativo) · Inglés (B2)
+Ingeniería en Software @ UABC · Español (nativo) · Inglés (C1)
 
 Construyo servicios backend y funciones de IA que la gente realmente usa: pipelines de RAG con citas verificadas, agentes con LangGraph y APIs con FastAPI y Node.js. Abierto a oportunidades como desarrollador de IA y backend.
 
